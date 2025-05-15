@@ -1,5 +1,7 @@
 # Chat With PDF - Generative AI Application
 
+[![LinkedIn Post](https://img.shields.io/badge/View-LinkedIn_Post-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/posts/raz-yousufi-7706322a3_generativeai-aws-langchain-activity-7322970184812498944-jp6M?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEk9_MQBNO2Hr48sSzDGlY5NnwqtWGq-vhQ)
+
 ## Amazon Bedrock, Langchain, Python, Docker, Amazon S3
 
 ## Models used:
